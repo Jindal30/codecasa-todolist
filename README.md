@@ -30,7 +30,3 @@ Check it out here:
 | JavaScript     | Task logic, event handling, and storage    |
 | Local Storage  | Persisting tasks between page reloads      |
 | GitHub Pages   | Free web hosting / deployment platform     |
-
----
-# Open index.html in your browser
-# (e.g., double-click or use: open index.html)
